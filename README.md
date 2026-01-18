@@ -40,3 +40,9 @@
    ```bash
     thBotVoiceCloner.py
    
+## Тестирование без бота
+
+1. Выполните пункт 1,3.
+2. Создайте аудиофаил с референсным голосом reference_voice.wav
+3. Запустите test_cosyvoice.py
+4. Результат будет сохранен как clone_voice_result.wav
